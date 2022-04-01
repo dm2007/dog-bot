@@ -1,0 +1,2 @@
+# dog-bot
+Discord server
