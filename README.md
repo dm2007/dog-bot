@@ -1,3 +1,3 @@
 # dog-bot
-Discord server
+Discord server bot
 v. 1.0.1
